@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca426bc-5300-4874-9084-cc5bf655613c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CommandLineClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlipNCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pluralize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlipNCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlipNCoins.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-119">
+              <first_editor relative-caret-position="333">
                 <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
                 <folding>
                   <element signature="e#0#99#0" expanded="true" />
@@ -31,11 +29,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlipNCoins.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FlipNCoins.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FlipNCoins.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="315">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/PluralizeTest.java" />
         <option value="$PROJECT_DIR$/src/CommandLineClock.java" />
         <option value="$PROJECT_DIR$/src/Pluralize.java" />
+        <option value="$PROJECT_DIR$/src/FlipNCoins.java" />
       </list>
     </option>
   </component>
@@ -242,12 +245,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -304,6 +307,22 @@
     <entry file="file://$PROJECT_DIR$/01-primitives-and-control-flow.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="333">
+            <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+            <folding>
+              <element signature="e#0#99#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-575" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Pluralize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -320,25 +339,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FlipNCoins.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="315">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-119">
-            <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
-            <folding>
-              <element signature="e#0#99#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-575" />
       </provider>
     </entry>
   </component>
