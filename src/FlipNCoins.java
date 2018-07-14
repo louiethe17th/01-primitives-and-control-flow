@@ -2,7 +2,7 @@ import java.lang.Math;
 
 public class FlipNCoins {
     public static void main(String[] args) {
-        flipNHeads(10);
+        flipNHeads(4);
     }
 
     public static void flipNHeads(int n) {
