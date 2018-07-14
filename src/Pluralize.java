@@ -2,7 +2,7 @@ public class Pluralize {
 
     public static void main(String[] args) {
         int thingCount = 32;
-        System.out.println("I own " + thingCount + " " + pluralize("vapes", thingCount) + ".");
+        System.out.println("I own " + thingCount + " " + pluralize("vape", thingCount) + ".");
     }
 
     public static String pluralize(String own, int thingCount) {
